@@ -1,5 +1,15 @@
 ## 💻 Projeto
-Site para o usuário fazer um feedback do site, sendo de um bug, ideia ou outro. Tendo a opção de tirar um print da tela ao clicar para enviar a evidência.
+
+Bem-vindo ao nosso portal de feedback do site! Aqui, você pode compartilhar seus pensamentos, relatar bugs, sugerir ideias ou fornecer qualquer outro tipo de feedback relacionado ao nosso site. Queremos ouvir sua opinião e melhorar sua experiência!
+
+Como funciona?
+* Escolha o tipo de feedback: Bug, Ideia ou Outro.
+* Se você encontrou um bug, descreva-o detalhadamente. Se tiver uma ideia, explique-a claramente. Caso seja outro tipo de feedback, forneça os detalhes relevantes.
+* Se desejar, tire um print da tela atual para nos ajudar a entender melhor o problema ou ilustrar sua ideia. Clique no botão "Capturar Tela" para fazer isso automaticamente.
+* Preencha seus dados de contato (opcional) para que possamos entrar em contato com você, se necessário.
+* Clique em "Enviar" para nos enviar seu feedback.
+* Capturar Tela
+* Ao clicar no botão "Capturar Tela", você terá a opção de selecionar uma área específica da tela para capturar como evidência. Isso nos ajudará a entender melhor o contexto do problema ou visualizar sua ideia com mais clareza.
 
 <h1 align="center">
     <a href="https://feedback-widget-web-two.vercel.app/">🔗 FeedbackWidget</a>
@@ -53,7 +63,8 @@ Site para o usuário fazer um feedback do site, sendo de um bug, ideia ou outro.
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/rafaelborges26/feedbackWidget-web
+$ git clone https://github.com/FernandaZaccaroRigolin/FeedbackWidgetReact
+
 ```
 
 Para iniciá-lo, siga os passos abaixo:
